@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1603639059 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.4 analytic index\analytic_index\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<math.h>
-	<ctype.h>
-
