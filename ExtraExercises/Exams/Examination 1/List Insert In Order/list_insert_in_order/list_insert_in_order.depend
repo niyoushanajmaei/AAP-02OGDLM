@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610208290 source:c:\users\nioosha\desktop\polito\exercises\algo\exams\examination 1\list insert in order\list_insert_in_order\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

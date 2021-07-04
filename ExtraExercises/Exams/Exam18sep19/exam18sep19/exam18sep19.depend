@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611496398 source:c:\users\nioosha\desktop\polito\exercises\algo\exams\exam18sep19\exam18sep19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+

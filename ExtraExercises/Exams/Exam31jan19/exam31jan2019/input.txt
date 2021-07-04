@@ -1,0 +1,6 @@
+AaA BbB
+AaA CcC
+BbB CcC
+BbB DdD
+CcC DdD
+AaA DdD
