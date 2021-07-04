@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602275195 source:c:\users\nioosha\desktop\polito\exercises\algo\c review\1.4 board\diamond\main.c
+	<stdio.h>
+	<stdlib.h>
+

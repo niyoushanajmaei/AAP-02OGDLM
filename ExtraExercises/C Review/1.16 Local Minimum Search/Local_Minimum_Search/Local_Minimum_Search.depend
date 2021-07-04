@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602447076 source:c:\users\nioosha\desktop\polito\exercises\algo\c review\1.16 local minimum search\local_minimum_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
