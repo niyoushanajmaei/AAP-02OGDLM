@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1605996729 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion basics\5.13 polish notation\polish_notation\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-
