@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610796868 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion_advanced\7.9 dominos\dominos\main.c
+	<stdio.h>
+	<stdlib.h>
+
