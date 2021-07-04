@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604578016 source:c:\users\nioosha\desktop\polito\exercises\algo\linked lists\4.18 lonely hearts club\lonely_hearts_club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

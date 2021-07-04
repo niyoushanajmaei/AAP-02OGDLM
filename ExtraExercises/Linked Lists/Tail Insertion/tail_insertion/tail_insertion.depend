@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604867173 source:c:\users\nioosha\desktop\polito\exercises\algo\linked lists\tail insertion\tail_insertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

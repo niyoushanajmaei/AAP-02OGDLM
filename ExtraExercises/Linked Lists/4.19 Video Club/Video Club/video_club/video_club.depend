@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604764559 source:c:\users\nioosha\desktop\polito\exercises\algo\linked lists\4.19 video club\video club\video_club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
