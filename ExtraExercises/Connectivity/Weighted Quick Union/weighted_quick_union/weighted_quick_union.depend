@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602841420 source:c:\users\nioosha\desktop\polito\exercises\algo\connectivity\weighted quick union\weighted_quick_union\main.c
+	<stdio.h>
+	<stdlib.h>
+
