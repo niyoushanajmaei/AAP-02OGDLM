@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1605453441 source:c:\users\nioosha\desktop\polito\exercises\algo\resursion\6.7 anagram generations\anagrams without repitition\anagrams_without_repitition\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
