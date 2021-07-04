@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1609755040 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\client .c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+
+1609755068 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\queuepublic.h
+	<stdio.h>
+
+1609755044 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\graph.h
+	"limits.h"
+	"util.h"
+
+1609755071 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609755041 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\graph.c
+	"graph.h"
+
+1609755062 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1609755067 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1609755070 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\util.c
+	"util.h"
+
+1610440609 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab12\lab12\client2.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+
