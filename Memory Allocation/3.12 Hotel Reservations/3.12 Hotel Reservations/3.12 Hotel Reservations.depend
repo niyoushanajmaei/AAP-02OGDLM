@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604260406 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.12 hotel reservations\3.12 hotel reservations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

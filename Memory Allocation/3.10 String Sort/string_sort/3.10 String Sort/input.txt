@@ -1,0 +1,7 @@
+here
+there
+is
+a
+set
+of
+strings
