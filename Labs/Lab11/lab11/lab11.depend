@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1609693882 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1609603340 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\item.h
+	<stdio.h>
+
+1609603340 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\item.h
+	<stdio.h>
+
+1609605429 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\st.h
+	"treePublic.h"
+
+1609714779 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\treepublic.h
+	"item.h"
+
+1609523421 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\treeprivate.h
+	"treePublic.h"
+
+1609605506 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\treepublic.h
+	"item.h"
+
+1609700503 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"treePublic.h"
+	"st.h"
+
+1609605429 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\st.h
+	"treePublic.h"
+
+1609714745 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+
+1609714795 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\tree.c
+	<stdlib.h>
+	"treePrivate.h"
+
+1609523421 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab11\lab11\treeprivate.h
+	"treePublic.h"
+
