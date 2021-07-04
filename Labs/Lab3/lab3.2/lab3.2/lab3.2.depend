@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603455180 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab3\lab3.2\lab3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
