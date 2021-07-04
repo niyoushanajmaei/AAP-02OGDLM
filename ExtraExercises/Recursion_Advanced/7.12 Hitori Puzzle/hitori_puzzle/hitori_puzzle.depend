@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607947530 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion_advanced\7.12 hitori puzzle\hitori_puzzle\main.c
+	<stdio.h>
+	<stdlib.h>
+
