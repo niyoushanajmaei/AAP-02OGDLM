@@ -1,3 +1,0 @@
-Test_Film1 120
-Test_Film2 150
-No_Film 100

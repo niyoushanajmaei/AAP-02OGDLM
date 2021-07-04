@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1604438279 source:c:\users\nioosha\desktop\polito\exercises\algo\linked lists\4.12 list sorting\list_sorting\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-

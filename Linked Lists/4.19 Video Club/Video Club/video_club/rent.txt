@@ -1,5 +1,0 @@
-Mem1 Test_Film1
-Mem1 Test_Film2
-Mem2 Test_Film1
-Mem3 Test_Film2
-Mem2 Test_Film2

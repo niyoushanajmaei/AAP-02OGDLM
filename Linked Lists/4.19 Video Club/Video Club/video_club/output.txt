@@ -1,2 +1,0 @@
-Test_Film2 150 3 40 -> Cook 1 Teacher 2 
-Test_Film1 120 2 35 -> Cook 1 Teacher 1 

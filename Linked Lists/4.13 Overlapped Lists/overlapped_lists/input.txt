@@ -1,3 +1,0 @@
-White 18
-Black 30
-Green 25

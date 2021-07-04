@@ -1,4 +1,0 @@
-Mem1 Teacher 30
-Mem2 Cook 40
-Mem3 Teacher 50
-No_mem Driver 67

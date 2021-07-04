@@ -1,4 +1,0 @@
-third 4.00
-forth 12.00
-first 23.00
-second 30.00
