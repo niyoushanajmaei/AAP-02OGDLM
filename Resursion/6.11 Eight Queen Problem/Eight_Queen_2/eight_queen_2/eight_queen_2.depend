@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606053519 source:c:\users\nioosha\desktop\polito\exercises\algo\resursion\6.11 eight queen problem\eight_queen_2\eight_queen_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
