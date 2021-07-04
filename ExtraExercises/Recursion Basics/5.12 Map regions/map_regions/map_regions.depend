@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605043095 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion basics\5.12 map regions\map_regions\main.c
+	<stdio.h>
+	<stdlib.h>
+
