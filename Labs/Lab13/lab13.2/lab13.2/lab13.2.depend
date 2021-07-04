@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1610536751 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1610536585 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\graph.h
+	"limits.h"
+	"util.h"
+
+1609755071 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609755062 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1609755067 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1609755068 c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\queuepublic.h
+	<stdio.h>
+
+1609755070 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\util.c
+	"util.h"
+
+1610536787 source:c:\users\nioosha\desktop\polito\exercises\algo\lab\lab13\lab13.2\lab13.2\graph.c
+	"graph.h"
+
