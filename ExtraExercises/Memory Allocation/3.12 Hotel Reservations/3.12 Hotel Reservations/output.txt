@@ -1,0 +1,9 @@
+Number of required rooms = 2
+Room number 1
+day=1 Fantozzi Ugo
+day=2 Bond James
+day=3 Bond James
+day=4 Xavier Charles
+Room number 2
+day=2 Fantozzi Ugo
+day=3 Xavier Charles

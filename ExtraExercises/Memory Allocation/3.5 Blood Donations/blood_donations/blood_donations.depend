@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603660452 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.5 blood donations\blood_donations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

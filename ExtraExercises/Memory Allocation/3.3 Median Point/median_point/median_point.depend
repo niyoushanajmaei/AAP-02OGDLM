@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603624817 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.3 median point\median_point\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

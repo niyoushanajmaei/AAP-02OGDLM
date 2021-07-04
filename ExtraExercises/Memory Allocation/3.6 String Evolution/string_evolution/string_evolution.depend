@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603707525 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.6 string evolution\string_evolution\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

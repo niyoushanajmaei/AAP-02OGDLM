@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604256982 source:c:\users\nioosha\desktop\polito\exercises\algo\memory allocation\3.10 string sort\string_sort\3.10 string sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
