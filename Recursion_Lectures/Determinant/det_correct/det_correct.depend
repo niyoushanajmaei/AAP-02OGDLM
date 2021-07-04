@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604913060 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion_lectures\determinant\det_correct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

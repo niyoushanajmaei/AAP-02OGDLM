@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605257152 source:c:\users\nioosha\desktop\polito\exercises\algo\recursion_lectures\quick sort\quick_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
