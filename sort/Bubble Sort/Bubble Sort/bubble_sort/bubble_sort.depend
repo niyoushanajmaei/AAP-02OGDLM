@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603214237 source:c:\users\nioosha\desktop\polito\exercises\algo\sort\bubble sort\bubble sort\bubble_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

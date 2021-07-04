@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603231234 source:c:\users\nioosha\desktop\polito\exercises\algo\sort\counting sort\counting sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
