@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1608658233 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\client.c
+	"treePublic.h"
+
+1608658260 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\treepublic.h
+	"data.h"
+
+1607777504 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607777502 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\data.c
+	"data.h"
+
+1607777514 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\tree.c
+	"treePrivate.h"
+
+1607777516 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\treeprivate.h
+	"treePublic.h"
+
+1607777504 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607777505 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\dataint.c
+	"data.h"
+
+1607777507 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\datastr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607777516 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\treeprivate.h
+	"treePublic.h"
+
+1608658260 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\bstlibrary\treepublic.h
+	"data.h"
+

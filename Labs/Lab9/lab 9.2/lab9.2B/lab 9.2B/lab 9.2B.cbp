@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab 9.2B" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab 9.2B" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab 9.2B" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/Makefile" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/impl1" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-int.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-int.c_" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-int.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-string.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-struct.c_" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item-struct.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/item.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/stackPrivate.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/stackPublic.h" />
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../../Slides/Algorithm/Lab/Lab 9/StackLibrary2/util.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

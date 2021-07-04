@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1607777731 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item.h"
+
+1607777750 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\stackpublic.h
+	<stdio.h>
+
+1607777745 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\item.h
+	<stdio.h>
+	"util.h"
+
+1607777752 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607777732 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\item-int.c
+	"item.h"
+
+1607777737 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\item-string.c
+	"item.h"
+
+1607777744 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\item.c
+	"item.h"
+
+1607777747 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stackPrivate.h"
+	"util.h"
+
+1607777749 c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1607777751 source:c:\users\nioosha\desktop\polito\slides\algorithm\lab\lab 9\stacklibrary2\util.c
+	"util.h"
+

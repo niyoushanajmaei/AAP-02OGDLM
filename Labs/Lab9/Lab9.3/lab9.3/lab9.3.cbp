@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab9.3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab9.3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab9.3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/data.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/dataInt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/dataStr.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/dataStr.h" />
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/inInt.txt" />
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/inStr.txt" />
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/tree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/treePrivate.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="../../../../../../Slides/Algorithm/Lab/Lab 9/BSTLibrary/treePublic.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="treeAddition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="treeAddition.h">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
